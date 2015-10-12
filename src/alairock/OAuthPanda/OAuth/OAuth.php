@@ -1,4 +1,4 @@
-<?php namespace alairock\moodshuffle\OAuth;
+<?php namespace alairock\OAuthPanda\OAuth;
 
 class OAuth {
 

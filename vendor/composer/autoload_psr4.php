@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'alairock\\moodshuffle\\' => array($baseDir . '/src/alairock/moodshuffle'),
+    'alairock\\OAuthPanda\\' => array($baseDir . '/src/alairock/OAuthPanda'),
 );

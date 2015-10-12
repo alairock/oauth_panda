@@ -1,4 +1,4 @@
-<?php namespace alairock\moodshuffle\contracts;
+<?php namespace alairock\OAuthPanda\contracts;
 
 interface Adapters{
 

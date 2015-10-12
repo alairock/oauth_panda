@@ -1,8 +1,8 @@
-<?php namespace alairock\moodshuffle;
+<?php namespace alairock\OAuthPanda;
 
-use alairock\moodshuffle\OAuth\OAuth;
+use alairock\OAuthPanda\OAuth\OAuth;
 
-class Spotify extends Oauth implements \alairock\moodshuffle\contracts\Adapters
+class Spotify extends Oauth implements \alairock\OAuthPanda\contracts\Adapters
 {
 
   public function __construct($clientId, $clientSecret, $redirectUrl, $state = null) {

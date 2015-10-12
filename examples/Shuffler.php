@@ -1,6 +1,6 @@
 <?php
 
-use alairock\moodshuffle\Spotify;
+use alairock\OAuthPanda\Spotify;
 
 class Shuffler {
 

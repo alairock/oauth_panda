@@ -11,10 +11,7 @@
     },
     "autoload": {
         "psr-4": {
-            "alairock\\moodshuffle\\": "src/alairock/moodshuffle/"
+            "alairock\\OAuthPanda\\": "src/alairock/OAuthPanda/"
         }
     }
-
-
-
 }
