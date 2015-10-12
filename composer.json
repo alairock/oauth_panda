@@ -6,6 +6,7 @@
             "email": "sblnog@gmail.com"
         }
     ],
+    "license": "MIT",
     "require": {
        "curl/curl": "~1.2"
     },
